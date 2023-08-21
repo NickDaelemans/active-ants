@@ -1,5 +1,5 @@
 {
-    "name": "afosto/active-ants",
+    "name": "nickdaelemans/active-ants",
     "description": "Client for ActiveAnts API",
     "type": "package",
     "require": {
