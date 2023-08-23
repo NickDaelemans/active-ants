@@ -4,6 +4,7 @@ namespace Afosto\ActiveAnts;
 
 class Rma extends Model {
 
+    protected $v2 = TRUE;
     /**
      * The RMA items
      * @var array
